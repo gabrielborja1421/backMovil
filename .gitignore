@@ -1,0 +1,26 @@
+# Dependencias
+/node_modules
+
+# Archivos de registro
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de ambiente de ejecución
+/.pnp
+.pnp.js
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios y archivos opcionales de configuración de editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Archivos de compilación
+/build
+/dist
